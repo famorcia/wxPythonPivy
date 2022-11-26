@@ -1,4 +1,4 @@
-# wxCoin3D Porting on wxWidgets of Coin3D (a.k.a Open Inventor) examples
+# wxPythonPivy Porting on wxWidgets of Coin3D (a.k.a Open Inventor) examples
 # Copyright (C) 2022  Fabrizio Morciano
 
 # This library is free software; you can redistribute it and/or
